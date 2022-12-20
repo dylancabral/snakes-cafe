@@ -1,0 +1,4 @@
+.venv
+# normally would grab from some standard location
+# /configs
+.idea
